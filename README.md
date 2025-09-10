@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Chibuikem Dickson
-- I am a Frontend Engineer from Nigeria💚🤍💚
+- I love making Frontend projects
 
 ### Skills And Experience
 
