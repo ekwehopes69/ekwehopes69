@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Chibuikem Dickson
+### Hi there 👋 i'm Anthony Dickson
 - I love making Frontend projects
 
 ### Skills And Experience
