@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Anthony Dickson
-- I love making Frontend projects
+- I love making Frontend projects and UI designs
 
 ### Skills And Experience
 
@@ -9,4 +9,5 @@
 - 📱 React Native
 - 💻HTML, CSS & JS
 - 🛒WordPress
-- 🖌Figma
+- 🖌️Figma
+- 🎨Adobe XD
